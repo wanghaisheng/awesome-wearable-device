@@ -6,6 +6,226 @@ search  wearable device, got 58073 results in all database
 
 https://ujohw70b1e.feishu.cn/wiki/ZzofweLRHiA66Sku812co7mOnHe
 
+### filter- hotpaper
+
+counts:43
+
+#### type:
+
+Article 43
+
+Review Article 15
+
+Other 10
+
+Early Access
+1
+
+#### author
+
+*    Gu J5
+*    Gu Junwei5
+*    Gu Jw5
+*    Zhang Y5
+*    Wang Zl4
+*    Chen G3
+*    Li J3
+*    Liu H3
+*    Liu W3
+*    Ma Z3
+*    Ma Zhonglei3
+*    Ma Zl3
+*    Ruan K3
+*    Ruan Kp3
+*    Ruan Kunpeng3
+*    Si C3
+*    Si Cl3
+*    Wang Z L3
+*    Zhang K3
+*    Zhang L3
+*    Zhang Yali3
+*    Zhang Yl3
+*    Chen C2
+*    Chen Gr2
+*    Chen Guorui2
+*    Chen J2
+*    Chen Jun2
+*    Chuanling Si2
+*    Collins J J2
+*    Collins James J2
+*    Collins Jj2
+*    Du H2
+*    Du Hs2
+*    Gao W2
+*    Han Y2
+*    Li T2
+*    Li Z2
+*    Liu Hy2
+*    Liu P2
+*    Liu Y2
+*    Luo X2
+*    Nguyen P Q2
+*    Nguyen Peter Q2
+*    Nguyen Pq2
+*    Shi X2
+*    Si C L2
+*    Wang J2
+*    Wang Y2
+*    Wu J2
+*    Xu C2
+*    Xu Ch2
+*    Xu T2
+*    Yang Y2
+*    Zhang B2
+*    Zhong Lin Wang2
+*    Aghavali R1
+*    Aghavali Reza1
+*    Algadi H1
+*    Alsokhiry F1
+*    An Y1
+*    Angenent-mari N M1
+*    Angenent-mari Nicolaas M1
+*    Angenent-mari Nm1
+*    Arif Z U1
+*    Arif Zu1
+*    Ates H C1
+*    Ates H Ceren1
+*    Ates Hc1
+*    Bae Sang-hoon1
+*    Bae Sh1
+*    Bao Q1
+*    Bao Qy1
+*    Baofeng Lin1
+*    Baoyang Lu1
+*    Barfidokht A1
+*    Barfidokht Abbas1
+*    Bick M1
+*    Bick Michael1
+*    Bodaghi M1
+*    Brown C1
+*    Brown Christopher1
+*    Budkowski A1
+*    Budkowski Andrzej1
+*    Cai C1
+*    Cai C Y1
+*    Cai Cy1
+*    Cao H1
+*    Cao Huan1
+*    Cao J1
+*    Cao Jun1
+*    Cao Y1
+*    Cao Yong1
+*    Capasso F1
+*    Capasso Federico1
+*    Chang Ma1
+*    Chatterjee D P1
+*    Chatterjee Dp1
+*    Chen Chunxu1
+*    Chen Cx1
+*    Chen P1
+*    Chen Peining1
+*    Chen Pn1
+*    Chen X1
+*    Chen Xiaoyu1
+*    Chen Xy1
+*    Chen Ym1
+*    Cheng Hm1
+*    Cheng Hui-ming1
+*    Cheng L1
+*    Cho Y1
+*    Cho Yj1
+*    Cho Youngjin1
+*    Choi C1
+*    Choi Chanyeol1
+*    Choo K K R1
+*    Choo Kkr1
+*    Chuanhui Xu1
+*    Crispin X1
+*    Crispin Xavier1
+*    Cui D1
+*    Cui Dp1
+*    De Puig H1
+*    De Puig Helena1
+*    Dehua Hu1
+*    Deng Y1
+*    Deng Z1
+*    Deng Z S1
+*    Deng Zhishuang1
+*    Deng Zs1
+*    Dincer C1
+*    Dincer Can1
+*    Donghia N M1
+*    Donghia Nina M1
+*    Donghia Nm1
+*    Dorrah A H1
+*    Dorrah Ah1
+*    Dorrah Ahmed H1
+*    Du H S1
+*    Du Haishun1
+*    Du Z1
+*    Du Zhukang1
+*    Du Zk1
+*    Duan L1
+*    Duan Lixia1
+*    Duan Lx1
+*    El-bahy S M1
+*    El-bahy Sm1
+*    El-bahy Z M1
+*    El-bahy Zm1
+*    Fabiano S1
+*    Fabiano Simone1
+*    Faheim A A1
+*    Faheim Aa1
+*    Fan X1
+*    Fan Xin1
+*    Faqi Hu1
+*    Fortino G1
+*    Fu Lh1
+*    Fu Lihua1
+*    Furmidge A1
+*    Furmidge Allison1
+*    Galbersanini T1
+*    Galbersanini Tommaso1
+*    Gao W C1
+*    Gao Wc1
+*    Gao Wei1
+*    Gao Wenchao1
+*    Gao Z1
+*    Gao Zhen1
+*    Goder Firat1
+*    Gong Q1
+*    Gong Qc1
+*    Gong Qichen1
+*    Gong S1
+*    Gong Y1
+*    Gonzalez-macia L1
+*    Gonzalez-macia Laura1
+*    Gu G1
+*    Gu Guoying1
+*    Gu Gy1
+*    Gu H1
+*    Gu Haibin1
+*    Gu Hb1
+*    Gu Zhangxuan1
+*    Guangmin Zhou1
+*    Guder F1
+*    Guder Firat1
+*    Guo H1
+*    Guo Hy1
+*    Guo Z H1
+*    Guo Zh1
+*    Guo Zi-hao1
+*    Guorui Chen1
+*    Guoying Gu1
+*    Haibin Gu1
+*    Haishun Du1
+*    Han J1
+*    Han Jiyeon1
+*    Han Yixin1
+*    Han Yq1
+
+
+
 ### filter- document type:patent
 
 3,446 results from All Databases for: 
