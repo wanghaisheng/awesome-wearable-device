@@ -20,11 +20,14 @@ https://github.com/wanghaisheng/wearable-device-paper-daily
 
 ##  smart watch,actigraphy,smart band etc  google latest paper monitoring
 
-https://github.com/wanghaisheng/wearable-device-paper-daily
 
+https://github.com/Shadow-Alex/PaperCrawler
+
+https://github.com/ai4ecd/hine-latest-paper
 
 ## datasets 
 
+grab dataset from datapaper
 
 
 
