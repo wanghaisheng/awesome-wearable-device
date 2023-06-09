@@ -23,6 +23,11 @@ https://github.com/wanghaisheng/wearable-device-paper-daily
 https://github.com/wanghaisheng/wearable-device-paper-daily
 
 
+## datasets 
+
+
+
+
 #  progress and developments in  industrial 
 
 
