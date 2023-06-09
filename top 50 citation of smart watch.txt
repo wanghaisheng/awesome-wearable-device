@@ -1,0 +1,1648 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chen, Jun
+   Huang, Yi
+   Zhang, Nannan
+   Zou, Haiyang
+   Liu, Ruiyuan
+   Tao, Changyuan
+   Fan, Xing
+   Wang, Zhong Lin
+TI Micro-cable structured textile for simultaneously harvesting solar and
+   mechanical energy
+SO NATURE ENERGY
+VL 1
+AR 16138
+DI 10.1038/NENERGY.2016.138
+DT Article
+PD SEP 12 2016
+PY 2016
+RI Wang, Zhong Lin/E-2176-2011; wang, jie/GRS-0942-2022; Liu, Ruiyuan/GWC-4730-2022; Zou, Haiyang/AAE-5188-2020; Chen, Jun/K-3415-2012; chen, jun/
+OI Wang, Zhong Lin/0000-0002-5530-0380; Liu, Ruiyuan/0000-0002-1678-3500;
+   Zou, Haiyang/0000-0003-3927-8651; Chen, Jun/0000-0002-3439-0495; chen,
+   jun/0000-0001-8883-0970
+ZR 0
+ZA 0
+ZS 0
+TC 777
+ZB 47
+Z8 29
+Z9 784
+SN 2058-7546
+DA 2016-09-12
+UT WOS:000394786300001
+ER
+
+PT J
+AU Kim, Sun Jin
+   We, Ju Hyung
+   Cho, Byung Jin
+TI A wearable thermoelectric generator fabricated on a glass fabric
+SO ENERGY & ENVIRONMENTAL SCIENCE
+VL 7
+IS 6
+BP 1959
+EP 1965
+DI 10.1039/c4ee00242c
+DT Article
+PD JUN 2014
+PY 2014
+RI Cho, Byung Jin/C-1679-2011
+ZA 0
+ZB 36
+ZS 0
+TC 649
+Z8 23
+ZR 0
+Z9 665
+SN 1754-5692
+EI 1754-5706
+DA 2014-06-01
+UT WOS:000336831700018
+ER
+
+PT J
+AU Li, Hongfei
+   Han, Cuiping
+   Huang, Yan
+   Huang, Yang
+   Zhu, Minshen
+   Pei, Zengxia
+   Xue, Qi
+   Wang, Zifeng
+   Liu, Zhuoxin
+   Tang, Zijie
+   Wang, Yukun
+   Kang, Feiyu
+   Li, Baohua
+   Zhi, Chunyi
+TI An extremely safe and wearable solid-state zinc ion battery based on a
+   hierarchical structured polymer electrolyte
+SO ENERGY & ENVIRONMENTAL SCIENCE
+VL 11
+IS 4
+BP 941
+EP 951
+DI 10.1039/c7ee03232c
+DT Article
+PD APR 1 2018
+PY 2018
+RI Zhu, Minshen/K-2727-2019; HUANG, Yang/AAL-7521-2021; Xue, Qi/Y-1300-2019; Han, Cuiping/ABA-5603-2021; Wang, Yukun/GRJ-5930-2022; ZHI, Chunyi/Y-2872-2019; Li, Hongfei/M-1136-2017; Han, Cuiping/C-4730-2015; Pei, Zengxia/ABD-5744-2021; Zhu, Minshen/AAK-7190-2021; LIU, Zhuoxin/HCH-1838-2022; Li, Baohua/F-6991-2011; Huang, Yan/ACJ-1097-2022; Kang, Feiyu/
+OI Zhu, Minshen/0000-0001-5883-4962; HUANG, Yang/0000-0001-5060-3414; Han,
+   Cuiping/0000-0003-1186-3234; ZHI, Chunyi/0000-0001-6766-5953; Li,
+   Hongfei/0000-0001-6202-0398; Han, Cuiping/0000-0003-1186-3234; Pei,
+   Zengxia/0000-0002-3202-7879; LIU, Zhuoxin/0000-0003-2643-3835; Li,
+   Baohua/0000-0002-8469-0162; Huang, Yan/0000-0003-4841-7262; Kang,
+   Feiyu/0000-0002-3704-4379
+ZR 0
+ZB 17
+ZS 0
+TC 601
+Z8 54
+ZA 0
+Z9 615
+SN 1754-5692
+EI 1754-5706
+DA 2018-04-01
+UT WOS:000430537000019
+ER
+
+PT J
+AU Li, Xu
+   Lu, Rongxing
+   Liang, Xiaohui
+   Shen, Xuemin (Sherman)
+   Chen, Jiming
+   Lin, Xiaodong
+TI Smart Community: An Internet of Things Application
+SO IEEE COMMUNICATIONS MAGAZINE
+VL 49
+IS 11
+BP 68
+EP 75
+DI 10.1109/MCOM.2011.6069711
+DT Article
+PD NOV 2011
+PY 2011
+RI Adriansyah, Andi/U-6941-2018; Chen, Jiming/AAA-3575-2020; Shen, Xuemin/AAH-2564-2020
+OI Adriansyah, Andi/0000-0002-3911-7455; Chen, Jiming/0000-0003-3155-3145;
+   Shen, Xuemin/0000-0002-4140-287X
+ZR 0
+ZB 5
+TC 335
+Z8 7
+ZS 0
+ZA 0
+Z9 503
+SN 0163-6804
+EI 1558-1896
+DA 2011-12-14
+UT WOS:000297054400008
+ER
+
+PT J
+AU Huang, Yuge
+   Hsiang, En-Lin
+   Deng, Ming-Yang
+   Wu, Shin-Tson
+TI Mini-LED, Micro-LED and OLED displays: present status and future
+   perspectives
+SO LIGHT-SCIENCE & APPLICATIONS
+VL 9
+IS 1
+AR 105
+DI 10.1038/s41377-020-0341-9
+DT Review
+PD JUN 18 2020
+PY 2020
+RI HSIANG, EN-LIN/GWM-5744-2022; Wu, Shin-Tson/
+OI Wu, Shin-Tson/0000-0002-0943-0440
+ZA 0
+ZB 11
+Z8 42
+ZR 1
+ZS 0
+TC 430
+Z9 445
+SN 2095-5545
+EI 2047-7538
+DA 2020-06-18
+UT WOS:000541070800001
+ER
+
+PT J
+AU Seneviratne, Suranga
+   Hu, Yining
+   Tham Nguyen
+   Lan, Guohao
+   Khalifa, Sara
+   Thilakarathna, Kanchana
+   Hassan, Mahbub
+   Seneviratne, Aruna
+TI A Survey of Wearable Devices and Challenges
+SO IEEE COMMUNICATIONS SURVEYS AND TUTORIALS
+VL 19
+IS 4
+BP 2573
+EP 2620
+DI 10.1109/COMST.2017.2731979
+DT Article
+PD 2017
+PY 2017
+RI Seneviratne, Suranga/AAC-6339-2020; Hassan, Mahbub/AAF-2656-2019; Seneviratne, Aruna/H-7753-2014; Khalifa, Sara/P-2001-2018; Lan, Guohao/R-7633-2017; Thilakarathna, Kanchana/; Hassan, Mahbub/; Nguyen, Tham/
+OI Seneviratne, Suranga/0000-0002-5485-5595; Seneviratne,
+   Aruna/0000-0001-6894-7987; Khalifa, Sara/0000-0002-3417-2834; Lan,
+   Guohao/0000-0003-2190-9937; Thilakarathna, Kanchana/0000-0003-4332-0082;
+   Hassan, Mahbub/0000-0002-3417-8590; Nguyen, Tham/0000-0002-2269-0300
+ZB 16
+TC 302
+ZS 0
+Z8 2
+ZA 0
+ZR 0
+Z9 307
+EI 1553-877X
+DA 2017-12-13
+UT WOS:000416509900018
+ER
+
+PT J
+AU Rosen, L. D.
+   Whaling, K.
+   Carrier, L. M.
+   Cheever, N. A.
+   Rokkum, J.
+TI The Media and Technology Usage and Attitudes Scale: An empirical
+   investigation
+SO COMPUTERS IN HUMAN BEHAVIOR
+VL 29
+IS 6
+BP 2501
+EP 2511
+DI 10.1016/j.chb.2013.06.006
+DT Article
+PD NOV 2013
+PY 2013
+RI Carrier, L. Mark/A-8409-2009; Carrier, Mark/
+OI Carrier, Mark/0000-0002-7649-4946
+Z8 1
+ZB 14
+ZS 0
+ZA 2
+ZR 0
+TC 304
+Z9 307
+SN 0747-5632
+EI 1873-7692
+DA 2013-11-01
+UT WOS:000325234600044
+PM 25722534
+ER
+
+PT C
+AU Kolberg, Dennis
+   Zuehlke, Detlef
+TI Lean Automation enabled by Industry 4.0 Technologies
+SO IFAC PAPERSONLINE
+VL 48
+IS 3
+BP 1870
+EP 1875
+DI 10.1016/j.ifacol.2015.06.359
+DT Proceedings Paper
+PD 2015
+PY 2015
+CT 15th IFAC Symposium on Information Control Problems in Manufacturing
+CY MAY 11-13, 2015
+CL Ottawa, CANADA
+TC 294
+Z8 5
+ZA 0
+ZR 1
+ZB 3
+ZS 3
+Z9 301
+SN 2405-8963
+DA 2015-01-01
+UT WOS:000375804100312
+ER
+
+PT J
+AU Chun, Jinsung
+   Ye, Byeong Uk
+   Lee, Jae Won
+   Choi, Dukhyun
+   Kang, Chong-Yun
+   Kim, Sang-Woo
+   Wang, Zhong Lin
+   Baik, Jeong Min
+TI Boosted output performance of triboelectric nanogenerator via electric
+   double layer effect
+SO NATURE COMMUNICATIONS
+VL 7
+AR 12985
+DI 10.1038/ncomms12985
+DT Article
+PD OCT 5 2016
+PY 2016
+RI Choi, Dukhyun/S-2119-2017; Kim, Sang-Woo/I-7769-2014; Lee, Jaewon/IQR-8432-2023; wang, jie/GRS-0942-2022; Wang, Zhong Lin/E-2176-2011
+OI Choi, Dukhyun/0000-0002-4788-0215; Kim, Sang-Woo/0000-0002-0079-5806;
+   Wang, Zhong Lin/0000-0002-5530-0380
+ZS 0
+Z8 5
+TC 279
+ZR 0
+ZA 0
+ZB 14
+Z9 281
+SN 2041-1723
+DA 2016-10-05
+UT WOS:000385545200001
+PM 27703165
+ER
+
+PT J
+AU Kim, Ki Joon
+   Shin, Dong-Hee
+TI An acceptance model for smart watches Implications for the adoption of
+   future wearable technology
+SO INTERNET RESEARCH
+VL 25
+IS 4
+BP 527
+EP 541
+DI 10.1108/IntR-05-2014-0126
+DT Article
+PD 2015
+PY 2015
+RI Kim, Ki Joon/ABE-6016-2020; Shin, Don/T-3545-2019
+OI Kim, Ki Joon/0000-0003-4188-7915; Shin, Don/0000-0002-5439-4493
+TC 274
+ZR 0
+Z8 0
+ZB 7
+ZS 0
+ZA 1
+Z9 275
+SN 1066-2243
+DA 2015-08-26
+UT WOS:000359055600002
+ER
+
+PT J
+AU Lu, Yanyan
+   Li, Zhiwei
+   Bai, Zhengyu
+   Mi, Hongyu
+   Ji, Chenchen
+   Pang, Huan
+   Yu, Chang
+   Qiu, Jieshan
+TI High energy-power Zn-ion hybrid supercapacitors enabled by layered B/N
+   co-doped carbon cathode
+SO NANO ENERGY
+VL 66
+AR 104132
+DI 10.1016/j.nanoen.2019.104132
+DT Article
+PD DEC 2019
+PY 2019
+RI Yu, Chang/A-9751-2016; Qiu, Jieshan/C-6276-2013
+OI Yu, Chang/0000-0003-3359-1970; 
+ZA 0
+ZR 0
+ZS 0
+TC 257
+ZB 6
+Z8 20
+Z9 262
+SN 2211-2855
+EI 2211-3282
+DA 2019-12-01
+UT WOS:000503062400052
+ER
+
+PT J
+AU Lai, Ying-Chih
+   Deng, Jianan
+   Zhang, Steven L.
+   Niu, Simiao
+   Guo, Hengyu
+   Wang, Zhong Lin
+TI Single-Thread-Based Wearable and Highly Stretchable Triboelectric
+   Nanogenerators and Their Applications in Cloth-Based Self-Powered
+   Human-Interactive and Biomedical Sensing
+SO ADVANCED FUNCTIONAL MATERIALS
+VL 27
+IS 1
+AR 1604462
+DI 10.1002/adfm.201604462
+DT Article
+PD JAN 2017
+PY 2017
+RI Wang, Zhong Lin/E-2176-2011; Lai, ying-chih/G-6885-2013; Guo, Hengyu/HCH-2366-2022; Niu, Simiao/D-3019-2012; wang, jie/GRS-0942-2022
+OI Wang, Zhong Lin/0000-0002-5530-0380; Guo, Hengyu/0000-0001-7133-4823;
+   Niu, Simiao/0000-0003-1973-2204; 
+ZS 0
+ZB 14
+ZA 0
+Z8 8
+ZR 0
+TC 259
+Z9 261
+SN 1616-301X
+EI 1616-3028
+DA 2018-12-28
+UT WOS:000391919900015
+ER
+
+PT J
+AU Dong, Kai
+   Deng, Jianan
+   Zi, Yunlong
+   Wang, Yi-Cheng
+   Xu, Cheng
+   Zou, Haiyang
+   Ding, Wenbo
+   Dai, Yejing
+   Gu, Bohong
+   Sun, Baozhong
+   Wang, Zhong Lin
+TI 3D Orthogonal Woven Triboelectric Nanogenerator for Effective
+   Biomechanical Energy Harvesting and as Self-Powered Active Motion
+   Sensors
+SO ADVANCED MATERIALS
+VL 29
+IS 38
+AR 1702648
+DI 10.1002/adma.201702648
+DT Article
+PD OCT 11 2017
+PY 2017
+RI Ding, Wenbo/AAG-6686-2019; Zi, Yunlong/H-9962-2012; Gu, Bohong/B-4434-2009; Dong, Kai/AAA-9258-2021; Wang, Zhong Lin/E-2176-2011; Zi, Yunlong/ABF-2280-2020; wang, jie/GRS-0942-2022; Wang, Yi-Cheng/ABI-3183-2020; Zou, Haiyang/AAE-5188-2020
+OI Zi, Yunlong/0000-0002-5133-4057; Gu, Bohong/0000-0003-3797-1081; Dong,
+   Kai/0000-0001-6314-1546; Wang, Zhong Lin/0000-0002-5530-0380; Zi,
+   Yunlong/0000-0002-5133-4057; Zou, Haiyang/0000-0003-3927-8651
+Z8 13
+ZA 0
+ZR 0
+ZS 0
+ZB 14
+TC 253
+Z9 256
+SN 0935-9648
+EI 1521-4095
+DA 2017-10-11
+UT WOS:000412452500018
+PM 28786510
+ER
+
+PT J
+AU Zhu, Chunsheng
+   Leung, Victor C. M.
+   Shu, Lei
+   Ngai, Edith C. -H.
+TI Green Internet of Things for Smart World
+SO IEEE ACCESS
+VL 3
+BP 2151
+EP 2162
+DI 10.1109/ACCESS.2015.2497312
+DT Article
+PD 2015
+PY 2015
+RI Zhu, Chunsheng/P-2182-2019; Shu, Lei/HHT-0694-2022; Leung, Victor C. M./AGU-2462-2022
+OI Zhu, Chunsheng/0000-0001-8041-0197; Shu, Lei/0000-0002-6700-9347; Leung,
+   Victor C. M./0000-0003-3529-2640
+TC 244
+ZR 0
+ZA 0
+Z8 2
+ZS 0
+ZB 2
+Z9 244
+SN 2169-3536
+DA 2015-01-01
+UT WOS:000371388200165
+ER
+
+PT J
+AU Song, Zeming
+   Wang, Xu
+   Lv, Cheng
+   An, Yonghao
+   Liang, Mengbing
+   Ma, Teng
+   He, David
+   Zheng, Ying-Jie
+   Huang, Shi-Qing
+   Yu, Hongyu
+   Jiang, Hanqing
+TI Kirigami-based stretchable lithium-ion batteries
+SO SCIENTIFIC REPORTS
+VL 5
+AR 10988
+DI 10.1038/srep10988
+DT Article
+PD JUN 11 2015
+PY 2015
+RI song, zeming/O-7118-2016; liang, mengbing/J-9230-2017; Yu, Hongyu/AAW-4110-2021; Jiang, Hanqing/B-1810-2008; MA, TENG/B-2613-2014; Lv, Cheng/C-1704-2018; An, Yonghao/E-7723-2012
+OI Yu, Hongyu/0000-0002-6899-9346; Jiang, Hanqing/0000-0002-1947-4420; MA,
+   TENG/0000-0003-4850-7268; An, Yonghao/0000-0001-9600-3369
+ZS 0
+ZA 0
+TC 226
+ZB 9
+ZR 0
+Z8 15
+Z9 237
+SN 2045-2322
+DA 2015-07-05
+UT WOS:000356096700001
+PM 26066809
+ER
+
+PT J
+AU Peake, Jonathan M.
+   Kerr, Graham
+   Sullivan, John P.
+TI A Critical Review of Consumer Wearables, Mobile Applications, and
+   Equipment for Providing Biofeedback, Monitoring Stress, and Sleep in
+   Physically Active Populations
+SO FRONTIERS IN PHYSIOLOGY
+VL 9
+AR 743
+DI 10.3389/fphys.2018.00743
+DT Review
+PD JUN 28 2018
+PY 2018
+RI Kerr, Graham K/I-9705-2012
+OI Kerr, Graham K/0000-0002-1008-256X
+ZS 0
+ZA 0
+ZR 1
+ZB 33
+TC 205
+Z8 0
+Z9 206
+SN 1664-042X
+DA 2018-12-28
+UT WOS:000436594600001
+PM 30002629
+ER
+
+PT C
+AU Nandakumar, Rajalakshmi
+   Iyer, Vikram
+   Tan, Desney
+   Gollakota, Shyamnath
+GP ACM
+TI FingerIO: Using Active Sonar for Fine-Grained Finger Tracking
+SO 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI
+   2016
+BP 1515
+EP 1525
+DI 10.1145/2858036.2858580
+DT Proceedings Paper
+PD 2016
+PY 2016
+CT 34th Annual CHI Conference on Human Factors in Computing Systems
+   (CHI4GOOD)
+CY MAY 07-12, 2016
+CL San Jose, CA
+SP Assoc Comp Machinery; SIG CHI
+ZA 0
+ZB 2
+Z8 2
+ZS 0
+TC 199
+ZR 0
+Z9 201
+BN 978-1-4503-3362-7
+DA 2016-01-01
+UT WOS:000380532901052
+ER
+
+PT J
+AU Guo, Yutao
+   Wang, Hao
+   Zhang, Hui
+   Liu, Tong
+   Liang, Zhaoguang
+   Xia, Yunlong
+   Yan, Li
+   Xing, Yunli
+   Shi, Haili
+   Li, Shuyan
+   Liu, Yanxia
+   Liu, Fan
+   Feng, Mei
+   Chen, Yundai
+   Lip, Gregory Y. H.
+CA MAFA II Investigators
+TI Mobile Photoplethysmographic Technology to Detect Atrial Fibrillation
+SO JOURNAL OF THE AMERICAN COLLEGE OF CARDIOLOGY
+VL 74
+IS 19
+BP 2365
+EP 2375
+DI 10.1016/j.jacc.2019.08.019
+DT Article
+PD NOV 12 2019
+PY 2019
+RI Thomas, Graham Neil/; Chan, Esther Wai Yin/B-3522-2012
+OI Thomas, Graham Neil/0000-0002-2777-1847; Chan, Esther Wai
+   Yin/0000-0002-7602-9470
+ZA 0
+TC 193
+ZB 62
+ZS 0
+Z8 8
+ZR 1
+Z9 200
+SN 0735-1097
+EI 1558-3597
+DA 2019-11-19
+UT WOS:000494650000005
+PM 31487545
+ER
+
+PT J
+AU Wen, Dong
+   Zhang, Xingting
+   Liu, Xingyu
+   Lei, Jianbo
+TI Evaluating the Consistency of Current Mainstream Wearable Devices in
+   Health Monitoring: A Comparison Under Free-Living Conditions
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 19
+IS 3
+AR e68
+DI 10.2196/jmir.6874
+DT Article
+PD MAR 2017
+PY 2017
+OI Lei, Jianbo/0000-0002-1744-0235
+ZR 0
+ZB 32
+ZA 0
+Z8 1
+ZS 0
+TC 196
+Z9 197
+SN 1438-8871
+DA 2017-03-01
+UT WOS:000395832100002
+PM 28270382
+ER
+
+PT J
+AU Mo, Funian
+   Chen, Ze
+   Liang, Guojin
+   Wang, Donghong
+   Zhao, Yuwei
+   Li, Hongfei
+   Dong, Binbin
+   Zhi, Chunyi
+TI Zwitterionic Sulfobetaine Hydrogel Electrolyte Building Separated
+   Positive/Negative Ion Migration Channels for Aqueous Zn-MnO2 Batteries
+   with Superior Rate Capabilities
+SO ADVANCED ENERGY MATERIALS
+VL 10
+IS 16
+AR 2000035
+DI 10.1002/aenm.202000035
+DT Article
+PD APR 2020
+PY 2020
+RI Liang, Guojin/HCH-4761-2022; ZHI, Chunyi/Y-2872-2019; Li, Hongfei/M-1136-2017; CHEN, Ze/HNR-1761-2023; ZHAO, Yuwei/; Chen, Ze/
+OI Liang, Guojin/0000-0001-8944-4035; ZHI, Chunyi/0000-0001-6766-5953; Li,
+   Hongfei/0000-0001-6202-0398; ZHAO, Yuwei/0000-0001-8473-579X; Chen,
+   Ze/0000-0003-4621-623X
+ZB 4
+ZS 0
+ZA 0
+ZR 0
+Z8 15
+TC 191
+Z9 191
+SN 1614-6832
+EI 1614-6840
+DA 2020-05-15
+UT WOS:000530329400006
+ER
+
+PT J
+AU Rhodes, Joshua D.
+   Cole, Wesley J.
+   Upshaw, Charles R.
+   Edgar, Thomas F.
+   Webber, Michael E.
+TI Clustering analysis of residential electricity demand profiles
+SO APPLIED ENERGY
+VL 135
+SI SI
+BP 461
+EP 471
+DI 10.1016/j.apenergy.2014.08.111
+DT Article
+PD DEC 15 2014
+PY 2014
+RI Rhodes, Joshua/K-8568-2019; Cole, Wesley/
+OI Cole, Wesley/0000-0002-9194-065X
+ZB 2
+ZS 3
+ZR 0
+ZA 0
+TC 183
+Z8 3
+Z9 186
+SN 0306-2619
+EI 1872-9118
+DA 2014-12-15
+UT WOS:000345470100045
+ER
+
+PT J
+AU Zheng, Z. Q.
+   Yao, J. D.
+   Wang, B.
+   Yang, G. W.
+TI Light-controlling, flexible and transparent ethanol gas sensor based on
+   ZnO nanoparticles for wearable devices
+SO SCIENTIFIC REPORTS
+VL 5
+AR 11070
+DI 10.1038/srep11070
+DT Article
+PD JUN 16 2015
+PY 2015
+RI Yao, Jiandong/R-6788-2018; Zheng, Z.Q./
+OI Yao, Jiandong/0000-0003-3499-2928; Zheng, Z.Q./0000-0002-1699-2425
+ZB 7
+TC 175
+ZS 0
+ZA 0
+ZR 0
+Z8 9
+Z9 179
+SN 2045-2322
+DA 2015-06-16
+UT WOS:000356514000001
+PM 26076705
+ER
+
+PT J
+AU Dong, Kai
+   Deng, Jianan
+   Ding, Wenbo
+   Wang, Aurelia C.
+   Wang, Peihong
+   Cheng, Chaoyu
+   Wang, Yi-Cheng
+   Jin, Limin
+   Gu, Bohong
+   Sun, Baozhong
+   Wang, Zhong Lin
+TI Versatile Core-Sheath Yarn for Sustainable Biomechanical Energy
+   Harvesting and Real-Time Human-Interactive Sensing
+SO ADVANCED ENERGY MATERIALS
+VL 8
+IS 23
+AR 1801114
+DI 10.1002/aenm.201801114
+DT Article
+PD AUG 16 2018
+PY 2018
+RI Gu, Bohong/B-4434-2009; Dong, Kai/AAA-9258-2021; Ding, Wenbo/AAG-6686-2019; Wang, Aurelia/R-8660-2019; Wang, Zhong Lin/E-2176-2011; Wang, Yi-Cheng/ABI-3183-2020; wang, jie/GRS-0942-2022; Wang, Aurelia/
+OI Gu, Bohong/0000-0003-3797-1081; Dong, Kai/0000-0001-6314-1546; Wang,
+   Zhong Lin/0000-0002-5530-0380; Wang, Aurelia/0000-0002-2564-7615
+ZA 0
+Z8 9
+ZB 6
+ZS 0
+TC 174
+ZR 0
+Z9 176
+SN 1614-6832
+EI 1614-6840
+DA 2018-08-16
+UT WOS:000441741900028
+ER
+
+PT J
+AU Tao, Kai
+   Yi, Haiping
+   Yang, Yang
+   Chang, Honglong
+   Wu, Jin
+   Tang, Lihua
+   Yang, Zhaoshu
+   Wang, Nan
+   Hu, Liangxing
+   Fu, Yongqing
+   Miao, Jianmin
+   Yuan, Weizheng
+TI Origami-inspired electret-based triboelectric generator for
+   biomechanical and ocean wave energy harvesting
+SO NANO ENERGY
+VL 67
+AR 104197
+DI 10.1016/j.nanoen.2019.104197
+DT Article
+PD JAN 2020
+PY 2020
+RI Tao, Kai/B-1773-2018; Wu, Jin/L-8985-2018; Fu, Richard Yongqing/D-2723-2009; Tang, Lihua/AAN-3406-2021; Hu, Liangxing/M-2163-2014; Yang, Zhaoshu/AAF-7645-2020; Yang, Yang/GXM-4855-2022; Wang, Nan/AAL-5379-2020; Tao, Kai/AFH-9553-2022; Yang, Zhaoshu/; Yi, Haiping/
+OI Tao, Kai/0000-0003-1848-8561; Wu, Jin/0000-0002-3065-6858; Fu, Richard
+   Yongqing/0000-0001-9797-4036; Tang, Lihua/0000-0001-9031-4190; Hu,
+   Liangxing/0000-0003-4477-8327; Yang, Yang/0000-0002-6572-9068; Wang,
+   Nan/0000-0001-5165-0861; Tao, Kai/0000-0003-1848-8561; Yang,
+   Zhaoshu/0000-0001-5273-9294; Yi, Haiping/0000-0001-9553-6884
+Z8 10
+ZB 1
+ZR 0
+TC 167
+ZS 0
+ZA 0
+Z9 170
+SN 2211-2855
+EI 2211-3282
+DA 2020-01-09
+UT WOS:000504828100059
+ER
+
+PT J
+AU Rawassizadeh, Reza
+   Price, Blaine A.
+   Petre, Marian
+TI Wearables: Has the Age of Smartwatches Finally Arrived?
+SO COMMUNICATIONS OF THE ACM
+VL 58
+IS 1
+BP 45
+EP 47
+DI 10.1145/2629633
+DT Article
+PD JAN 2015
+PY 2015
+OI Price, Blaine/0000-0002-2247-9804
+Z8 1
+ZR 0
+ZB 8
+ZS 0
+ZA 0
+TC 160
+Z9 161
+SN 0001-0782
+EI 1557-7317
+DA 2015-01-01
+UT WOS:000348302400019
+ER
+
+PT J
+AU Singh, Maria A. Fiatarone
+   Gates, Nicola
+   Saigal, Nidhi
+   Wilson, Guy C.
+   Meiklejohn, Jacinda
+   Brodaty, Henry
+   Wen, Wei
+   Singh, Nalin
+   Baune, Bernhard T.
+   Suo, Chao
+   Baker, Michael K.
+   Foroughi, Nasim
+   Wang, Yi
+   Sachdev, Perminder S.
+   Valenzuela, Michael
+TI The Study of Mental and Resistance Training (SMART) Study-Resistance
+   Training and/or Cognitive Training in Mild Cognitive Impairment: A
+   Randomized, Double-Blind, Double-Sham Controlled Trial
+SO JOURNAL OF THE AMERICAN MEDICAL DIRECTORS ASSOCIATION
+VL 15
+IS 12
+BP 873
+EP 880
+DI 10.1016/j.jamda.2014.09.010
+DT Article
+PD DEC 2014
+PY 2014
+RI Wen, Wei/J-7837-2015; Sachdev, Perminder/ABC-1137-2020; Wilson, Guy Charles/AAE-8365-2022; Baker, Michael K/E-9514-2010; Wen, Wei/; Baker, Michael/; Wang, Yi/; Valenzuela, Michael/
+OI Wen, Wei/0000-0003-4720-3027; Sachdev, Perminder/0000-0002-9595-3220;
+   Wilson, Guy Charles/0000-0001-5730-162X; Wen, Wei/0000-0003-2753-3870;
+   Baker, Michael/0000-0002-0551-4209; Wang, Yi/0000-0002-6074-0532;
+   Valenzuela, Michael/0000-0001-7162-6607
+ZA 0
+ZR 0
+Z8 4
+TC 151
+ZB 48
+ZS 4
+Z9 157
+SN 1525-8610
+EI 1538-9375
+DA 2014-12-01
+UT WOS:000345499500005
+PM 25444575
+ER
+
+PT J
+AU Reeder, Blaine
+   David, Alexandria
+TI Health at hand: A systematic review of smart watch uses for health and
+   wellness
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 63
+BP 269
+EP 276
+DI 10.1016/j.jbi.2016.09.001
+DT Review
+PD OCT 2016
+PY 2016
+RI Reeder, Blaine/HLX-9368-2023
+ZA 0
+ZS 1
+ZR 0
+ZB 15
+Z8 2
+TC 153
+Z9 155
+SN 1532-0464
+EI 1532-0480
+DA 2016-10-01
+UT WOS:000389557000028
+PM 27612974
+ER
+
+PT J
+AU Lee, Sojeong
+   Kang, Hwayeong
+   Shin, Gwanseob
+TI Head flexion angle while using a smartphone
+SO ERGONOMICS
+VL 58
+IS 2
+BP 220
+EP 226
+DI 10.1080/00140139.2014.967311
+DT Article
+PD FEB 1 2015
+PY 2015
+RI Shin, Gwanseob/F-8040-2011; Shin, Gwanseob/
+OI Shin, Gwanseob/0000-0001-5050-9962
+TC 146
+ZR 0
+Z8 2
+ZS 5
+ZA 0
+ZB 12
+Z9 152
+SN 0014-0139
+EI 1366-5847
+DA 2015-02-25
+UT WOS:000348306900005
+PM 25323467
+ER
+
+PT J
+AU Gardner, Julian W.
+   Guha, Prasanta K.
+   Udrea, Florin
+   Covington, James A.
+TI CMOS Interfacing for Integrated Gas Sensors: A Review
+SO IEEE SENSORS JOURNAL
+VL 10
+IS 12
+BP 1833
+EP 1848
+DI 10.1109/JSEN.2010.2046409
+DT Article
+PD DEC 2010
+PY 2010
+RI Gardner, Julian William/AAP-2907-2020; Covington, James A./Q-1934-2018
+OI Gardner, Julian William/0000-0002-4706-0049; Covington, James
+   A./0000-0003-1307-6488
+TC 144
+ZR 0
+ZB 5
+ZS 0
+Z8 1
+ZA 0
+Z9 150
+SN 1530-437X
+EI 1558-1748
+DA 2010-12-01
+UT WOS:000283378600005
+ER
+
+PT J
+AU Zou, Yongjiu
+   Raveendran, Vidhur
+   Chen, Jun
+TI Wearable triboelectric nanogenerators for biomechanical energy
+   harvesting
+SO NANO ENERGY
+VL 77
+AR 105303
+DI 10.1016/j.nanoen.2020.105303
+DT Article
+PD NOV 2020
+PY 2020
+RI Chen, Jun/K-3415-2012; , Vidhur/
+OI Chen, Jun/0000-0002-3439-0495; , Vidhur/0000-0003-2565-6930
+ZB 11
+Z8 7
+ZA 0
+TC 148
+ZR 0
+ZS 0
+Z9 149
+SN 2211-2855
+EI 2211-3282
+DA 2020-11-01
+UT WOS:000581738300104
+ER
+
+PT J
+AU Suarez-Tangil, Guillermo
+   Tapiador, Juan E.
+   Peris-Lopez, Pedro
+   Ribagorda, Arturo
+TI Evolution, Detection and Analysis of Malware for Smart Devices
+SO IEEE COMMUNICATIONS SURVEYS AND TUTORIALS
+VL 16
+IS 2
+BP 961
+EP 987
+DI 10.1109/SURV.2013.101613.00077
+DT Article
+PD 2014
+PY 2014
+RI Peris-Lopez, Pedro/AAB-1090-2019; Suarez-Tangil, Guillermo/T-5346-2019; Tapiador, Juan/G-2304-2016
+OI Peris-Lopez, Pedro/0000-0001-6943-0760; Suarez-Tangil,
+   Guillermo/0000-0002-0455-2553; Tapiador, Juan/0000-0002-4573-3967
+TC 136
+Z8 6
+ZS 0
+ZA 0
+ZB 2
+ZR 0
+Z9 143
+EI 1553-877X
+DA 2014-01-01
+UT WOS:000339727700019
+ER
+
+PT J
+AU Gil de Zuniga, Homero
+   Garcia-Perdomo, Victor
+   McGregor, Shannon C.
+TI What Is Second Screening? Exploring Motivations of Second Screen Use and
+   Its Effect on Online Political Participation
+SO JOURNAL OF COMMUNICATION
+VL 65
+IS 5
+BP 793
+EP 815
+DI 10.1111/jcom.12174
+DT Article
+PD OCT 2015
+PY 2015
+RI García-Perdomo, Víctor/T-3571-2019; de Zúñiga, Homero Gil/B-1651-2009; García-Perdomo, Víctor/C-2175-2017; McGregor, Shannon C/AAO-1718-2020; McGregor, Shannon/
+OI de Zúñiga, Homero Gil/0000-0002-4187-3604; García-Perdomo,
+   Víctor/0000-0002-7187-1618; McGregor, Shannon/0000-0002-3275-0397
+TC 132
+ZA 4
+ZS 7
+Z8 0
+ZR 0
+ZB 0
+Z9 141
+SN 0021-9916
+EI 1460-2466
+DA 2015-10-01
+UT WOS:000362594500010
+ER
+
+PT J
+AU Wu, Xingjiang
+   Xu, Yijun
+   Hu, Ying
+   Wu, Guan
+   Cheng, Hengyang
+   Yu, Qiang
+   Zhang, Kai
+   Chen, Wei
+   Chen, Su
+TI Microfluidic-spinning construction of black-phosphorus-hybrid
+   microfibres for non-woven fabrics toward a high energy density flexible
+   supercapacitor
+SO NATURE COMMUNICATIONS
+VL 9
+AR 4573
+DI 10.1038/s41467-018-06914-7
+DT Article
+PD NOV 1 2018
+PY 2018
+RI Chen, Su/J-7343-2012; Hu, Ying/AAB-8588-2020; Hu, Ying/K-3893-2015; Wu, Guan/P-1874-2015; Chen, Wei/AAQ-8308-2020; Chen, Wei/AAS-1391-2020
+OI Chen, Su/0000-0002-3799-469X; Hu, Ying/0000-0002-9711-6047; Wu,
+   Guan/0000-0002-0025-812X; Chen, Wei/0000-0001-9527-110X; 
+ZB 13
+Z8 8
+ZA 0
+ZS 0
+TC 135
+ZR 0
+Z9 136
+SN 2041-1723
+DA 2018-12-28
+UT WOS:000448941200003
+PM 30385751
+ER
+
+PT J
+AU Gong, Wenwen
+   Qi, Lianyong
+   Xu, Yanwei
+TI Privacy-Aware Multidimensional Mobile Service Quality Prediction and
+   Recommendation in Distributed Fog Environment
+SO WIRELESS COMMUNICATIONS & MOBILE COMPUTING
+AR 3075849
+DI 10.1155/2018/3075849
+DT Article
+PD 2018
+PY 2018
+RI Gong, Wenwen/Q-9161-2016; Qi, Lianyong/AAO-2681-2020
+ZA 0
+Z8 3
+ZB 3
+ZR 0
+TC 132
+ZS 0
+Z9 134
+SN 1530-8669
+EI 1530-8677
+DA 2018-05-15
+UT WOS:000431547900001
+ER
+
+PT J
+AU Chen, Baodong
+   Tang, Wei
+   Jiang, Tao
+   Zhu, Laipan
+   Chen, Xiangyu
+   He, Chuan
+   Xu, Liang
+   Guo, Hengyu
+   Lin, Pei
+   Li, Ding
+   Shao, Jiajia
+   Wang, Zhong Lin
+TI Three-dimensional ultraflexible triboelectric nanogenerator made by 3D
+   printing
+SO NANO ENERGY
+VL 45
+BP 380
+EP 389
+DI 10.1016/j.nanoen.2017.12.049
+DT Article
+PD MAR 2018
+PY 2018
+RI jiang, tao/GWC-7108-2022; Wang, Zhong Lin/E-2176-2011; tang, wei/HZH-5205-2023; Zhu, Laipan/AAZ-3656-2021; Tang, Wei/Q-6391-2018; Guo, Hengyu/HCH-2366-2022; Chen, Baodong/P-8641-2018; Lin, Pei/M-4641-2015; wang, jie/GRS-0942-2022; He, Chuan/Y-6287-2019; Chen, Xiangyu/P-7839-2018; Zhu, Laipan/; Shao, Jiajia/GRX-2727-2022; Tang, Wei/; Jiang, Tao/
+OI Wang, Zhong Lin/0000-0002-5530-0380; Guo, Hengyu/0000-0001-7133-4823;
+   Chen, Baodong/0000-0002-4647-0089; Lin, Pei/0000-0002-3300-5241; Chen,
+   Xiangyu/0000-0002-0711-0275; Zhu, Laipan/0000-0001-7538-641X; Shao,
+   Jiajia/0000-0002-9777-1930; Tang, Wei/0000-0002-9901-4933; Jiang,
+   Tao/0000-0001-7941-7703
+ZA 0
+ZB 1
+ZR 0
+Z8 7
+TC 131
+ZS 0
+Z9 132
+SN 2211-2855
+EI 2211-3282
+DA 2018-12-28
+UT WOS:000425396400043
+ER
+
+PT J
+AU Papa, Armando
+   Mital, Monika
+   Pisano, Paola
+   Del Giudice, Manlio
+TI E-health and wellbeing monitoring using smart healthcare devices: An
+   empirical investigation
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+VL 153
+AR 119226
+DI 10.1016/j.techfore.2018.02.018
+DT Article
+PD APR 2020
+PY 2020
+ZB 4
+ZR 0
+Z8 0
+ZA 0
+TC 125
+ZS 0
+Z9 125
+SN 0040-1625
+EI 1873-5509
+DA 2020-05-01
+UT WOS:000527366500002
+ER
+
+PT J
+AU Lukowicz, P
+   Kirstein, T
+   Troster, G
+TI Wearable systems for health care applications
+SO METHODS OF INFORMATION IN MEDICINE
+VL 43
+IS 3
+BP 232
+EP 238
+DT Article
+PD 2004
+PY 2004
+ZA 0
+ZB 9
+ZS 0
+ZR 0
+TC 125
+Z8 1
+Z9 125
+SN 0026-1270
+DA 2004-01-01
+UT WOS:000222690200004
+PM 15227552
+ER
+
+PT C
+AU Wang, He
+   Lai, Ted Tsung-Te
+   Choudhury, Romit Roy
+GP Assoc Comp Machinery
+TI MoLe: Motion Leaks through Smartwatch Sensors
+SO MOBICOM '15: PROCEEDINGS OF THE 21ST ANNUAL INTERNATIONAL CONFERENCE ON
+   MOBILE COMPUTING AND NETWORKING
+BP 155
+EP 166
+DI 10.1145/2789168.2790121
+DT Proceedings Paper
+PD 2015
+PY 2015
+CT 21st Annual International Conference on Mobile Computing and Networking
+   (MobiCom)
+CY SEP 07-11, 2015
+CL Paris, FRANCE
+SP Assoc Comp Machinery; Assoc Comp Machinery SIGMOBILE; Atos Worldline;
+   NSF; CISCO; Google; HP; Alcatel Lucent; Huawei; Inria; LIP6; Microsoft;
+   NEC Labs; Orange; Technicolor; UPMC
+OI Wang, He/0000-0003-2987-8362
+ZB 2
+Z8 6
+TC 117
+ZS 0
+ZR 0
+ZA 0
+Z9 123
+BN 978-1-4503-3619-2
+DA 2015-01-01
+UT WOS:000485516500014
+ER
+
+PT J
+AU Castillejo, Pedro
+   Martinez, Jose-Fernan
+   Rodriguez-Molina, Jesus
+   Cuerva, Alexandra
+TI INTEGRATION OF WEARABLE DEVICES IN A WIRELESS SENSOR NETWORK FOR AN
+   E-HEALTH APPLICATION
+SO IEEE WIRELESS COMMUNICATIONS
+VL 20
+IS 4
+DI 10.1109/MWC.2013.6590049
+DT Article
+PD AUG 2013
+PY 2013
+RI Martínez, José-Fernán/F-7294-2016; Castillejo, Pedro/E-7862-2016; Rodriguez-Molina, Jesus/M-8317-2017; MARTINEZ ORTEGA, JOSE FERNAN/
+OI Castillejo, Pedro/0000-0001-7356-717X; Rodriguez-Molina,
+   Jesus/0000-0002-2761-6193; MARTINEZ ORTEGA, JOSE
+   FERNAN/0000-0002-7635-4564
+ZB 3
+TC 120
+ZS 0
+ZA 0
+ZR 0
+Z8 0
+Z9 121
+SN 1536-1284
+EI 1558-0687
+DA 2013-08-01
+UT WOS:000324598600008
+ER
+
+PT C
+AU Esteves, Augusto
+   Velloso, Eduardo
+   Bulling, Andreas
+   Gellersen, Hans
+GP ACM
+TI Orbits: Gaze Interaction for Smart Watches using Smooth Pursuit Eye
+   Movements
+SO UIST'15: PROCEEDINGS OF THE 28TH ANNUAL ACM SYMPOSIUM ON USER INTERFACE
+   SOFTWARE AND TECHNOLOGY
+BP 457
+EP 466
+DI 10.1145/2807442.2807499
+DT Proceedings Paper
+PD 2015
+PY 2015
+CT 28th Annual ACM Symposium on User Interface Software and Technology
+   (UIST)
+CY OCT 08-11, 2015
+CL Charlotte, NC
+SP ACM; ACM SIGCHI; ACM SIGGRAPH
+RI Gellersen, Hans/HJP-8760-2023; Esteves, Augusto/; Bulling, Andreas/; Gellersen, Hans/; Velloso, Eduardo/
+OI Esteves, Augusto/0000-0003-1621-5375; Bulling,
+   Andreas/0000-0001-6317-7303; Gellersen, Hans/0000-0003-2233-2121;
+   Velloso, Eduardo/0000-0003-4414-2249
+ZB 4
+ZS 0
+TC 117
+ZA 0
+ZR 0
+Z8 0
+Z9 119
+BN 978-1-4503-3779-3
+DA 2015-01-01
+UT WOS:000381012500050
+ER
+
+PT J
+AU Kindberg, T
+   Barton, J
+TI A Web-based nomadic computing system
+SO COMPUTER NETWORKS
+VL 35
+IS 4
+BP 443
+EP 456
+DI 10.1016/S1389-1286(00)00181-X
+DT Article
+PD MAR 2001
+PY 2001
+ZB 0
+Z8 6
+ZS 0
+TC 105
+ZR 0
+ZA 0
+Z9 116
+SN 1389-1286
+EI 1872-7069
+DA 2001-03-01
+UT WOS:000167091400008
+ER
+
+PT J
+AU Nelson, Benjamin W.
+   Allen, Nicholas B.
+TI Accuracy of Consumer Wearable Heart Rate Measurement During an
+   Ecologically Valid 24-Hour Period: Intraindividual Validation Study
+SO JMIR MHEALTH AND UHEALTH
+VL 7
+IS 3
+AR e10828
+DI 10.2196/10828
+DT Article
+PD MAR 11 2019
+PY 2019
+RI Nelson, Benjamin/N-5811-2019; Nelson, Benjamin W./; Allen, Nicholas/
+OI Nelson, Benjamin W./0000-0002-5474-7674; Allen,
+   Nicholas/0000-0002-1086-6639
+ZR 0
+Z8 0
+TC 113
+ZS 0
+ZB 15
+ZA 0
+Z9 113
+SN 2291-5222
+DA 2019-03-28
+UT WOS:000461232600001
+PM 30855232
+ER
+
+PT J
+AU Dehzangi, Omid
+   Taherisadr, Mojtaba
+   ChangalVala, Raghvendar
+TI IMU-Based Gait Recognition Using Convolutional Neural Networks and
+   Multi-Sensor Fusion
+SO SENSORS
+VL 17
+IS 12
+AR 2735
+DI 10.3390/s17122735
+DT Article
+PD DEC 2017
+PY 2017
+RI Dehzangi, Omid/T-4730-2019; Changalvala, Raghu/; Taherisadr, Mojtabat/
+OI Changalvala, Raghu/0000-0001-5665-2401; Taherisadr,
+   Mojtabat/0000-0001-5534-5776
+TC 101
+ZB 8
+Z8 4
+ZA 0
+ZR 0
+ZS 0
+Z9 106
+EI 1424-8220
+DA 2017-12-01
+UT WOS:000423285800035
+PM 29186887
+ER
+
+PT J
+AU Liu, Mengmeng
+   Cong, Zifeng
+   Pu, Xiong
+   Guo, Wenbin
+   Liu, Ting
+   Li, Meng
+   Zhang, Yang
+   Hu, Weiguo
+   Wang, Zhong Lin
+TI High-Energy Asymmetric Supercapacitor Yarns for Self-Charging Power
+   Textiles
+SO ADVANCED FUNCTIONAL MATERIALS
+VL 29
+IS 41
+SI SI
+AR 1806298
+DI 10.1002/adfm.201806298
+DT Article
+PD OCT 2019
+PY 2019
+RI Pu, Xiong/ABA-7149-2021; Hu, Weiguo/C-9811-2012; Zhang, Yang/AAI-5293-2020; Pu, Xiong/M-5909-2013; Wang, Zhong Lin/E-2176-2011
+OI Pu, Xiong/0000-0002-1254-8503; Hu, Weiguo/0000-0002-8614-0359; Pu,
+   Xiong/0000-0002-1254-8503; Wang, Zhong Lin/0000-0002-5530-0380
+ZS 0
+ZB 5
+TC 103
+Z8 5
+ZR 0
+ZA 0
+Z9 105
+SN 1616-301X
+EI 1616-3028
+DA 2019-10-18
+UT WOS:000489051200003
+ER
+
+PT J
+AU Jiang, Shuo
+   Lv, Bo
+   Guo, Weichao
+   Zhang, Chao
+   Wang, Haitao
+   Sheng, Xinjun
+   Shull, Peter B.
+TI Feasibility of Wrist-Worn, Real-Time Hand, and Surface Gesture
+   Recognition via sEMG and IMU Sensing
+SO IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+VL 14
+IS 8
+BP 3376
+EP 3385
+DI 10.1109/TII.2017.2779814
+DT Article
+PD AUG 2018
+PY 2018
+RI Guo, Weichao/AAH-9240-2020; Jiang, Shuo/V-2262-2019; Sheng, Xinjun/
+OI Jiang, Shuo/0000-0003-3645-6301; Sheng, Xinjun/0000-0001-6124-8665
+ZB 12
+ZA 0
+TC 103
+Z8 2
+ZS 0
+ZR 0
+Z9 105
+SN 1551-3203
+EI 1941-0050
+DA 2018-08-24
+UT WOS:000441446300008
+ER
+
+PT J
+AU Ackermann, Claudia
+   Beggiato, Matthias
+   Schubert, Sarah
+   Krems, Josef F.
+TI An experimental study to investigate design and assessment criteria:
+   What is important for communication between pedestrians and automated
+   vehicles?
+SO APPLIED ERGONOMICS
+VL 75
+BP 272
+EP 282
+DI 10.1016/j.apergo.2018.11.002
+DT Article
+PD FEB 2019
+PY 2019
+RI Krems, Josef/AAU-5156-2020; Beggiato, Matthias/
+OI Beggiato, Matthias/0000-0003-1898-5322
+Z8 1
+ZB 4
+ZA 0
+TC 101
+ZS 0
+ZR 0
+Z9 102
+SN 0003-6870
+EI 1872-9126
+DA 2019-01-10
+UT WOS:000454371900029
+PM 30509537
+ER
+
+PT J
+AU Stephenson, Jennifer
+   Limbrick, Lisa
+TI A Review of the Use of Touch-Screen Mobile Devices by People with
+   Developmental Disabilities
+SO JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS
+VL 45
+IS 12
+SI SI
+BP 3777
+EP 3791
+DI 10.1007/s10803-013-1878-8
+DT Article
+PD DEC 2015
+PY 2015
+RI Limbrick, Lisa M/P-4114-2014; Stephenson, Jennifer/
+OI Limbrick, Lisa M/0000-0002-9833-0344; Stephenson,
+   Jennifer/0000-0002-5934-0478
+TC 101
+Z8 0
+ZA 0
+ZB 11
+ZR 0
+ZS 0
+Z9 101
+SN 0162-3257
+EI 1573-3432
+DA 2015-12-25
+UT WOS:000365417100002
+PM 23888356
+ER
+
+PT J
+AU Maharjan, P.
+   Toyabur, R. M.
+   Park, J. Y.
+TI A human locomotion inspired hybrid nanogenerator for wrist-wearable
+   electronic device and sensor applications
+SO NANO ENERGY
+VL 46
+BP 383
+EP 395
+DI 10.1016/j.nanoen.2018.02.033
+DT Article
+PD APR 2018
+PY 2018
+RI Maharjan, Pukar/AAQ-2591-2021; Maharjan, Pukar/E-9902-2018; Rahman, Muhammad Toyabur/V-6971-2019; Maharjan, Pukar/
+OI Rahman, Muhammad Toyabur/0000-0001-9925-7743; Maharjan,
+   Pukar/0000-0002-5695-9347
+Z8 5
+ZR 0
+ZB 3
+ZA 0
+TC 98
+ZS 0
+Z9 100
+SN 2211-2855
+EI 2211-3282
+DA 2018-04-01
+UT WOS:000427924000045
+ER
+
+PT C
+AU Weiss, Gary M.
+   Timko, Jessica L.
+   Gallagher, Catherine M.
+   Yoneda, Kenichi
+   Schreiber, Andrew J.
+GP IEEE
+TI Smartwatch-based Activity Recognition: A Machine Learning Approach
+SO 2016 3RD IEEE EMBS INTERNATIONAL CONFERENCE ON BIOMEDICAL AND HEALTH
+   INFORMATICS
+BP 426
+EP 429
+DT Proceedings Paper
+PD 2016
+PY 2016
+CT 3rd IEEE EMBS International Conference on Biomedical and Health
+   Informatics (IEEE BHI)
+CY FEB 24-27, 2016
+CL Las Vegas, NV
+SP IEEE EMBS; IEEE; Journal of Biomed & Hlth Informat; IEEE Commun Soc
+RI Weiss, Gary M./AAE-4289-2020
+OI Weiss, Gary M./0000-0001-5009-7101
+ZS 0
+TC 97
+ZB 4
+Z8 0
+ZA 0
+ZR 0
+Z9 98
+BN 978-1-5090-2455-1
+DA 2016-10-12
+UT WOS:000381398000106
+ER
+
+PT J
+AU Lee, Han Eol
+   Shin, Jung Ho
+   Park, Jung Hwan
+   Hong, Seong Kwang
+   Park, Sang Hyun
+   Lee, Seung Hyung
+   Lee, Jae Hee
+   Kang, Il-Suk
+   Lee, Keon Jae
+TI Micro Light-Emitting Diodes for Display and Flexible Biomedical
+   Applications
+SO ADVANCED FUNCTIONAL MATERIALS
+VL 29
+IS 24
+AR 1808075
+DI 10.1002/adfm.201808075
+DT Article
+PD JUN 2019
+PY 2019
+RI Lee, Han Eol/AAW-1506-2021; Lee, Keon Jae/C-1722-2011; Lee, Han Eol/AAS-6899-2020; Lee, Keon Jae/
+OI Lee, Han Eol/0000-0003-2866-5947; Lee, Han Eol/0000-0003-2866-5947; Lee,
+   Keon Jae/0000-0001-7500-3079
+ZR 0
+TC 92
+ZB 2
+ZS 0
+Z8 12
+ZA 0
+Z9 97
+SN 1616-301X
+EI 1616-3028
+DA 2019-06-24
+UT WOS:000471074000005
+ER
+
+EF
