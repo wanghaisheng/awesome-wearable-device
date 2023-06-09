@@ -13,8 +13,8 @@ curated list of resources about wearable device
 
 ##  smart watch,actigraphy,smart band etc  arxiv latest paper monitoring
 
-https://github.com/wanghaisheng/wearable-device-paper-daily
-
+[https://github.com/wanghaisheng/wearable-device-paper-daily
+](https://github.com/wanghaisheng/wearable-device-arxiv-paper-daily)
 
 
 
