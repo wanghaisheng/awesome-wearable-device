@@ -60,5 +60,8 @@ grab dataset from datapaper
 
 ### account monitoring
 
+https://github.com/wanghaisheng/gen-brand-social-account-RSS
+
+
 ### comments monitoring 
 
