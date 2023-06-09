@@ -1,6 +1,7 @@
 # awesome-wearable-device
 curated list of resources about wearable device
 
+# progress and developments in  academic 
 
 ## historic  paper analysis
 
@@ -20,6 +21,9 @@ https://github.com/wanghaisheng/wearable-device-paper-daily
 ##  smart watch,actigraphy,smart band etc  google latest paper monitoring
 
 https://github.com/wanghaisheng/wearable-device-paper-daily
+
+
+#  progress and developments in  industrial 
 
 
 ## patent analysis
