@@ -6,7 +6,11 @@ curated list of resources about wearable device
 ## historic  paper analysis
 
 
+### wos search as baseline 
 
+### google scholarship as supplements
+
+### arxiv as supplements 
 
 
 
