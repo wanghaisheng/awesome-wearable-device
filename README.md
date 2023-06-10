@@ -36,6 +36,12 @@ https://github.com/wanghaisheng/vercel-reverse-proxy
 
 
 
+## paper first round read
+
+chatpaper to get summary
+
+
+ 
 ## datasets 
 
 grab dataset from datapaper
