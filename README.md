@@ -8,6 +8,9 @@ curated list of resources about wearable device
 
 ### wos search as baseline 
 
+https://github.com/wanghaisheng/wos-keywords-crawler
+
+
 ### google scholarship as supplements
 
 ### arxiv as supplements 
