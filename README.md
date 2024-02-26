@@ -16,6 +16,11 @@ https://github.com/wanghaisheng/wos-keywords-crawler
 ### arxiv as supplements 
 
 
+####  Signal Quality assessment 
+ 
+#####  PPG Signal Quality assessment 
+
+#####  ECG Signal Quality assessment 
 
 
 ##  smart watch,actigraphy,smart band etc  arxiv latest paper monitoring
@@ -83,4 +88,6 @@ https://github.com/wanghaisheng/gen-brand-social-account-RSS
 
 
 ### comments monitoring 
+
+
 
